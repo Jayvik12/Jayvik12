@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Vivek Dwivedi</h1>
 <h3 align="center">🚀 Senior Security Engineer | CISSP | Cloud & DevSecOps | Zero Trust Architect</h3>
 
