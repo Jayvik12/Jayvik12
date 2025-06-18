@@ -46,7 +46,7 @@
 
 - ✅ **CISSP – Certified Information Systems Security Professional**
 - ✅ **AWS Certified Security – Specialty**
-- ✅ **HashiCorp Certified: Terraform Associate**
+- ✅ **Comptia Security+**
 - ✅ **Certified Kubernetes Security Specialist (CKS)** _(in progress)_
 
 ---
@@ -54,9 +54,9 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jayvik12&show_icons=true&theme=radical" alt="vik-study stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Jayvik12&show_icons=true&theme=radical" alt="Jayvik12"/>
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jayvik12&theme=radical" alt="vik-study streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jayvik12&theme=radical" alt="Jayvik12"/>
 </p>
 
 ---
