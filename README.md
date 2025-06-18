@@ -54,9 +54,9 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vik-study&show_icons=true&theme=radical" alt="vik-study stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Jayvik12&show_icons=true&theme=radical" alt="vik-study stats"/>
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vik-study&theme=radical" alt="vik-study streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jayvik12&theme=radical" alt="vik-study streak"/>
 </p>
 
 ---
