@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vivek Dwivedi</h1>
-<h3 align="center">🚀 Senior Security Engineer | CISSP | Cloud & DevSecOps | Zero Trust Architect</h3>
+<h3 align="center">🚀 AI Generalist | Senior Security Engineer | CISSP | Cloud & DevSecOps | Zero Trust Architect </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vik-study&label=Profile%20views&color=0e75b6&style=flat" alt="vik-study" />
@@ -15,6 +15,7 @@
 - 🛡️ Leading a technical team for support at **Tufin**, ensuring global enterprise security posture
 - 📝 Sharing insights on LinkedIn: [@vivek-dwivedi-cissp](https://www.linkedin.com/in/vivek-dwivedi-cissp/)
 - 🎯 Currently preparing for advanced **DevSecOps Automation Projects**
+- 🚀 I design and build practical **AI systems** that solve real-world problems — from **LLM applications, RAG systems, and multi-agent workflows to secure, cloud‑native deployments and automation at scale**.
 
 ---
 
@@ -24,6 +25,8 @@
 |-------|------------|-----------|----------|-----------|
 | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) | ![Ansible](https://img.shields.io/badge/Ansible-%23EE0000.svg?style=flat&logo=ansible&logoColor=white) | ![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white) | ![Zero Trust](https://img.shields.io/badge/Zero--Trust-%23007ACC.svg?style=flat) | ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) |
 | ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white) | ![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?style=flat&logo=gnu-bash&logoColor=white) | ![GitHub Actions](https://img.shields.io/badge/GitHub--Actions-%232671E5.svg?style=flat&logo=github-actions&logoColor=white) | ![IAM](https://img.shields.io/badge/IAM-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) | ![Shell Script](https://img.shields.io/badge/Shell-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) |
+
+AI Generalist with hands-on experience in LLMs, RAG systems, Generative AI, automation, and secure cloud deployments. I love building end-to-end AI solutions—from data pipelines to model development, APIs, and production-grade MLOps.
 
 ---
 
@@ -39,6 +42,7 @@
 ### 🏆 Certifications
 
 - ✅ **CISSP – Certified Information Systems Security Professional**
+- ✅ **RHCSA – Red Hat Certified System Administrator**
 - ✅ **AWS Certified Security – Specialty**
 - ✅ **Comptia Security+**
 - ✅ **Certified Kubernetes Security Specialist (CKS)** _(in progress)_
